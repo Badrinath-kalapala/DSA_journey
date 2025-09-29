@@ -25,6 +25,11 @@ Output: false
 
 ---
 
+
+## Complexity
+- **Time Complexity:** O(n) — iterates through the array once.  
+- **Space Complexity:** O(n) — for storing counts in the Counter.
+
 ## Code (Python)
 ```python
 from collections import Counter
@@ -37,9 +42,7 @@ class Solution:
             if i > 1:
                 return True
         return False
----
 
-## Complexity
-- **Time Complexity:** O(n) — iterates through the array once.  
-- **Space Complexity:** O(n) — for storing counts in the Counter.
+
+
 

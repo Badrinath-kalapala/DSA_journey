@@ -37,7 +37,8 @@ class Solution:
             if i > 1:
                 return True
         return False
+---
 
-Complexity
+## Complexity
 Time Complexity: O(n) — iterates through the array once.
 Space Complexity: O(n) — for storing counts in the Counter.

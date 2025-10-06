@@ -8,11 +8,11 @@ Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `f
 ## Examples
 
 **Example 1:**
-Input: s = "anagram", t = "nagaram"
+Input: s = "anagram", t = "nagaram" <br>
 Output: true
 
 **Example 2:**
-Input: s = "rat", t = "car"
+Input: s = "rat", t = "car" <br>
 Output: false
 
 ---
